@@ -1,0 +1,21 @@
+{
+  "name": "grzProteins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "node-fetch": "^2.6.0",
+    "node-xlsx": "^0.15.0",
+    "ramda": "^0.26.1",
+    "readline": "^1.3.0",
+    "xml2js": "^0.4.19",
+    "yargs": "^13.2.4"
+  }
+}
